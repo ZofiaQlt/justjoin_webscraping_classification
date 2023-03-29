@@ -10,6 +10,6 @@ The top 5 most in-demand skills vs. skill level vs. experience level
 
 <br>
 
-The remuneration (€) vs. contract type vs. experience level
+The remuneration (€) vs. contract type vs. experience level 
 
 <img width="1460" alt="Capture d’écran 2023-03-29 à 03 27 46" src="https://user-images.githubusercontent.com/67431758/228405578-39f32ea3-1d88-4a29-9b05-8021551f12cb.png">

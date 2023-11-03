@@ -1,6 +1,6 @@
 <img width="600" alt="logo" src="https://user-images.githubusercontent.com/67431758/228405989-1448ac64-43b0-49a5-aa1e-317873334a85.png">
 
-### Analysis of job offers related to the data field on https://justjoin.it
+### Analysis of job offers related to the data field on https://justjoin.it 
 
 <br>
 
